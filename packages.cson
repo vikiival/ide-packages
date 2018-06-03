@@ -1,0 +1,18 @@
+packages: [
+  "atom-clock"
+  "autoclose-html"
+  "busy-signal"
+  "editorconfig"
+  "file-icons"
+  "highlight-selected"
+  "intentions"
+  "language-babel"
+  "linter"
+  "linter-eslint"
+  "linter-ui-default"
+  "minimap"
+  "minimap-highlight-selected"
+  "package-sync"
+  "pigments"
+  "prettier-atom"
+]
