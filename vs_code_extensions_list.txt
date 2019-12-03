@@ -1,0 +1,16 @@
+christian-kohler.path-intellisense
+Compulim.vscode-clock
+dbaeumer.vscode-eslint
+EditorConfig.EditorConfig
+esbenp.prettier-vscode
+file-icons.file-icons
+JuanBlanco.solidity
+kumar-harsh.graphql-for-vscode
+mgmcdermott.vscode-language-babel
+ms-python.python
+ms-vscode.atom-keybindings
+octref.vetur
+Shan.code-settings-sync
+sysoev.language-stylus
+vincaslt.highlight-matching-tag
+zhuangtongfa.material-theme
